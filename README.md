@@ -11,4 +11,5 @@ currently the waste management system in India is working randomly and it need's
 # Full details are given below :
 [e-Kachra Daan.pdf](https://github.com/VrajChariot/Smart-Grabge-Monitoring-System/files/10734572/e-Kachra.Daan.pdf)
 # Steps :
-Firstly you will need to upload 
+Firstly you will need to upload Iot dustbin to a nodemcu board which act as an normal IoT dustbin which sends data to Blynk Dashboard
+
